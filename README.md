@@ -11,7 +11,7 @@ In their existing market, the sales team has classified all customers into 4 seg
 You are required to help the manager to predict the right group of the new customers.
 
 ## Neural Network Model
-![Uploading image.png…]()
+<img width="602" height="119" alt="image" src="https://github.com/user-attachments/assets/393deb76-3c33-44eb-b8b4-399567c076b2" />
 
 ## DESIGN STEPS
 ### STEP 1: 
@@ -196,16 +196,16 @@ print(f'Actual class for sample input: {label_encoder.inverse_transform([y_test[
 ### OUTPUT
 # Confusion Matrix
 
-<img width="675" height="571" alt="image" src="https://github.com/user-attachments/assets/801d5b34-eec3-4c06-83d0-b8d5a0b4986e" />
+<img width="765" height="642" alt="image" src="https://github.com/user-attachments/assets/55dd636f-6aa1-45dd-b7e9-4bd0e29cc0ab" />
 
 
 
 ## Classification Report
-<img width="622" height="444" alt="image" src="https://github.com/user-attachments/assets/4a89d7da-61c1-44b4-b71c-ddad22469f34" />
+<img width="1728" height="641" alt="image" src="https://github.com/user-attachments/assets/f6665787-7e8c-403a-85bc-098cfc5ce9be" />
 
 
 ### New Sample Data Prediction
-<img width="563" height="102" alt="image" src="https://github.com/user-attachments/assets/44c48344-39e9-4134-a4cd-bce5c57af40e" />
+<img width="611" height="113" alt="image" src="https://github.com/user-attachments/assets/b9a2ef64-8e98-4732-8737-5809d697d296" />
 
 
 ## RESULT
